@@ -10,7 +10,7 @@ A companion at every stage of life
 
 ### 👥 Đội ngũ sáng lập (5 Vai trò - 5 Sức mạnh)
 1. **[Phạm Trí Kiệt]** - **CEO (Nhà chiến lược)**: Điều phối nhóm, nghiên cứu thị trường và đưa ra quyết định cuối cùng.
-2. **[Phạm Tất Đạt]** - **Nhà nghiên cứu xã hội Thu thập số liệu và nhu cầu của người dân.
+2. **[Nguyễn Tất Đạt]** - **Nhà nghiên cứu xã hội Thu thập số liệu và nhu cầu của người dân.
 3. **[Phạm Tiến Hoàng]**- **Kỹ sư công nghệ:** Đề xuất và chịu trách nhiệm về kiến trúc công nghệ (AI, Robot, Drone, IoT...)
 4. **[Phạm Tiến Hoàng]-** **Nhà thiết kế trải nghiệm:** Phụ trách vẽ bản vẽ phối cảnh, thiết kế giao diện ứng dụng và slide.
 5. **[Lê Vũ Tùng]** - **Nhà đầu tư**: Đánh giá tính khả thi, chi phí - lợi ích và xây dựng mô hình kinh doanh.
