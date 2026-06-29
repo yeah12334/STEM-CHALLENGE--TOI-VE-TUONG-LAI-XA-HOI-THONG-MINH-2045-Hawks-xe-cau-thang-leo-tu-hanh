@@ -59,9 +59,11 @@ A companion at every stage of life
 
 ## 🧠 5. TẠO TRI THỨC MỚI (REFLECTION)
 Sau 3 tuần đồng hành và kiến tạo dự án, đội ngũ sáng lập của chúng tôi đã đúc kết được:
-* **Chúng tôi phát hiện rằng:** [Một sự thật ngầm hiểu hoặc một góc nhìn mới về vấn đề mà trước đây nhóm chưa từng nghĩ tới].
-* **Chúng tôi học được rằng:** [Bài học sâu sắc nhất về sự kết hợp giữa Công nghệ và Con người / Kỹ năng làm việc nhóm].
-* **Ý tưởng mới/Điểm cải tiến độc đáo nhất của dự án là:** [Điểm khác biệt giúp Startup của bạn vượt trội hơn các giải pháp đang có trên thị trường].
+* **Chúng tôi phát hiện rằng:** [ Rào cản lớn nhất đối với người khuyết tật không nằm ở những bậc thang hay những con dốc gập ghềnh, mà nằm ở "khoảng cách tâm lý" và sự "cô lập vô hình" trong không gian công cộng. Trước đây, mục tiêu của nhóm là tìm giải pháp kỹ thuật để xe leo được bậc thang. Nhưng khi đặt sản phẩm vào bức tranh đô thị tương lai, chúng tôi hiểu rằng: Một thiết kế thành công không phải là một cỗ máy phô diễn công nghệ, mà là một điểm tựa giúp người yếu thế tự tin di chuyển ngang hàng, chủ động tương tác và hoàn toàn hòa nhập vào đám đông mà không còn cảm giác bị "gắn mác" khác biệt.].
+* **Chúng tôi học được rằng:** [Bài học lớn nhất mà nhóm gặt hái được chính là công nghệ biết "ẩn mình" để tôn vinh con người. Hệ thống tự hành hay cơ chế bánh xích thông minh chỉ thực sự có giá trị khi chúng mang lại sự an tâm tuyệt đối, trả lại sự tự do nguyên bản cho người sử dụng. Dự án này là minh chứng về góc nhìn đa chiều. Sự giao thoa giữa công nghệ và sự đồng cảm của nhà thiết kế chính là chìa khóa vàng, giúp chúng tôi chuyển hóa những bản vẽ kỹ thuật khô khan thành một giải pháp thay đổi số phận.].
+* **Ý tưởng mới/Điểm cải tiến độc đáo nhất của dự án là:** [ Điểm cải tiến độc đáo và cốt lõi của dự án nằm ở khả năng "Tự động tái cấu trúc hình thái di chuyển" (Adaptive Morphology) kết hợp với trí tuệ nhân tạo AI:
+Cơ chế bánh xích thông minh, chuyển đổi mượt mà giữa chế độ đi bằng, leo thang và vượt địa hình phức tạp.
+Độc lập hoàn toàn. Trao quyền chủ động tuyệt đối cho người dùng trong mọi cấu trúc đô thị mà không cần chờ đợi cải tạo hạ tầng.].
 
 ---
 
