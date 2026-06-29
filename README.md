@@ -53,7 +53,7 @@ A companion at every stage of life
 *Mô tả ý tưởng bức tranh tương lai khi giải pháp của Startup được áp dụng rộng rãi vào cuộc sống.*
 
 *Hình ảnh bản vẽ phối cảnh của nhóm (Đính kèm file ảnh từ thư mục design_visuals):*
-![Bản vẽ phối cảnh 2045](design_visuals/[ten_file_anh_ban_ve].png)
+![Bản vẽ phối cảnh 2045](design_visuals/Ban ve xa hoi 2045.jpg)
 
 ---
 
